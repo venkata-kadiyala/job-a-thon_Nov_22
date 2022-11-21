@@ -1,0 +1,9 @@
+Venkata Vikram Das Kadiyala-
+
+1. Imputed the missing value with foward fill.
+2. Checked data for stationarity.
+3. Tried applying auto_arima, was facing some issues.
+4. Applied facebook's Prophet algorithm for univariate model.
+5. Created a multi-variate dataframe by extracting data from datetime column.
+6. Applied various ML algorithms like Linear Regression, Decision Tree, etc.
+7. Predicted for test data.
